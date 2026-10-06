@@ -1,0 +1,6 @@
+{
+  "name": "MathMentor AI",
+  "description": "Agentic AI personalized mathematics learning platform with multi-agent cognitive analysis, adaptive mastery, and thinking path coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
